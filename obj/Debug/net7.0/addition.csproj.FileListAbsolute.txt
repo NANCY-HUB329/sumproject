@@ -1,0 +1,15 @@
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.AssemblyInfoInputs.cache
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.AssemblyInfo.cs
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.csproj.CoreCompileInputs.cache
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.sourcelink.json
+C:\Users\Nancy\Desktop\my c projects\addition\bin\Debug\net7.0\addition.exe
+C:\Users\Nancy\Desktop\my c projects\addition\bin\Debug\net7.0\addition.deps.json
+C:\Users\Nancy\Desktop\my c projects\addition\bin\Debug\net7.0\addition.runtimeconfig.json
+C:\Users\Nancy\Desktop\my c projects\addition\bin\Debug\net7.0\addition.dll
+C:\Users\Nancy\Desktop\my c projects\addition\bin\Debug\net7.0\addition.pdb
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.dll
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\refint\addition.dll
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.pdb
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\addition.genruntimeconfig.cache
+C:\Users\Nancy\Desktop\my c projects\addition\obj\Debug\net7.0\ref\addition.dll
